@@ -1,0 +1,2 @@
+-- Active: 1772729964746@@127.0.0.1@3306
+ALTER TABLE frutaria RENAME TO frutaria
