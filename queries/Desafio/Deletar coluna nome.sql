@@ -1,0 +1,3 @@
+-- Active: 1772729964746@@127.0.0.1@3306
+ALTER Table frutaria
+DROP COLUMN cnpj

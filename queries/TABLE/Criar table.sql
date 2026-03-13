@@ -10,3 +10,11 @@ CREATE TABLE enderecos (
     cidade TEXT,
     cep INTEGER NOT NULL
 )
+
+CREATE Table frutarias_donos(
+    id INTEGER NOT NULL PRIMARY KEY autoincrement,
+    frutaria_id INTEGER,
+    dono_id INTEGER,
+
+    
+)

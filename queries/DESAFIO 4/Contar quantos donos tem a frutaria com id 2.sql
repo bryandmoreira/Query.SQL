@@ -1,0 +1,3 @@
+-- Active: 1772729964746@@127.0.0.1@3306
+-- Active: 1772729964746@@127.0.0.1@3306
+SELECT count(*) FROM frutarias INNER JOIN frutarias_donos ON frutarias.id = frutarias_donos.frutaria_id INNER JOIN donos ON donos.id = frutarias_donos.dono_id WHERE frutarias.id = 2
